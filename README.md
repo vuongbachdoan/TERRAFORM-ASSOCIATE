@@ -1,3 +1,3 @@
 ### Auto format
 
-    yarn install
+    terraform fmt
